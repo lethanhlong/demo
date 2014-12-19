@@ -1,0 +1,61 @@
+/*thông báo đăng ký trong hợp đồng*/
+#thongbao{
+	font-size: 15pt;
+	text-align: center;
+	color:#0000FF;
+	background-color: #F2F2F2;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#hopdong1{
+	text-align: center;
+	color: #04B404;
+}
+#tenht{
+	text-align: center;
+	font-size: 13pt;
+}
+#tenkh{
+	
+	font-size: 13pt;
+}
+#tenloai{
+	text-align: center;
+	font-size: 13pt;
+}
+#ngaysinh  {
+	font-size: 13pt;
+}
+#trinhdo  {
+	font-size: 13pt;
+}
+#chucvu {
+	font-size: 13pt;
+}
+#cmt {
+	font-size: 13pt;
+}
+#ngaycap  {
+	font-size: 13pt;
+}
+#noicap  {
+	font-size: 13pt;
+}
+#email  {
+	font-size: 13pt;
+}
+#sdt  {
+	font-size: 13pt;
+}
+#diachi  {
+	font-size: 13pt;
+}
+
+/*tra cứu thông tin dang ký sử dụng điện*/
+#tracuudk1{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+#tracuudk .error{
+	color:red !important;
+}

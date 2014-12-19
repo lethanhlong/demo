@@ -1,0 +1,223 @@
+
+#noidung {
+	width:100%;
+	min-height: 500px;
+	border: 1px solid #DBD9D9;
+	background-color: #fff;
+	/*padding-bottom: 70px*/;
+}
+/*----------------------trang chủ-----------------------*/
+#vanban{
+	
+	
+	padding-top: 10px;
+
+}
+#col9{
+
+}
+#tchu3{
+	padding-left: 20px;
+	vertical-align: sub;
+
+	
+}
+#tchu4{
+	padding-right: 5px;
+	border-right: 1px solid #DBD9D9;
+}
+#tchu5{
+	padding-left: 15px;
+	/*padding-right: 15px;*/
+}
+#tchu5 table tbody tr td img{
+	float: left;
+	padding-right: 10px;
+}
+#tchu5 table tbody tr td{
+
+
+}
+#tchu6{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#home1{
+	
+	border-left: 1px solid #DBD9D9;
+}
+#tchu{
+	padding-left: 50px;
+}
+/*------------------------------giới thiệu-------------*/
+#gthieu{
+	padding-left: 20px;
+	text-align: left;
+
+}
+/*------------------------------lien hệ-------------*/
+#lienhe{
+	padding-left: 30px;
+	text-align: left;
+}
+#lienhe form{
+	width: 350px;
+	margin-right: auto;
+}
+#lienhe .error{
+	font-size:13px !important;
+	color: red;
+}
+#lienhe div .form-group textarea{
+	height: 100px !important;
+}
+/*------------------------------tin tức---------------------*/
+#tintuc{
+	padding-left: 10px;
+	text-align: left;
+	padding-right: 10px;
+}
+#tintuc h3{
+	margin-top: 10px !important;
+}
+#tintuc .tt1 {
+	background-color: #F2F2F2;
+	text-align: center;
+	color:#0000FF;
+	padding: 10px;
+}
+
+.tt2{
+	padding-bottom: 20px;
+
+}
+.tt3{
+	vertical-align: top;
+
+}
+/*-----------chi tiết tin tức---------*/
+#cttt{
+	padding-left: 20px;
+	text-align: left;
+	padding-right: 10px;
+}
+#cttt img{
+	padding-left: 40px;
+	margin: auto;
+	padding-bottom: 10px;
+
+}
+/*-----------------gia nước----------------------*/
+#gianuoc1{
+	color: #fff;
+	background-color: #38A8F6;
+}
+/*----------------------lịch cúp điện----------*/
+#lichcup{
+	padding-left: 10px;
+	text-align: center;
+	padding-right: 10px;
+}
+#lichcup h3{
+	margin-top: 10px !important;
+}
+
+#lichcup .tt1{
+	background-color: #F2F2F2;
+	text-align: center;
+	color:#0000FF;
+	padding: 10px;
+}
+/*#lichcup table thead tr th{
+	text-align: center !important;
+}*/
+#lichcup1 thead tr th{
+	text-align: center !important;
+vertical-align: inherit !important;
+}
+#lichcup1 tbody tr td{
+vertical-align: inherit !important;
+}
+/*làm lịch nhỏ lại*/
+.ui-datepicker{
+width: 14em !important;
+/*height: 16em !important;*/
+}
+/*--------Đăng ký---------------*/
+#dangky .error{
+	font-size: 14px;
+	color: red;
+}
+/*chữ của dang ký*/
+
+#dk1 .btn{
+	font-size: 13pt;
+}
+/*phân trang*/
+/*.pagination{
+	padding-left: 25% !important;
+}*/
+.form-horizontal .form-group {
+
+margin-right: 15px !important;
+}
+
+#xemhd{
+	/*height: 800px;*/
+	/*background: url("http://localhost:8080/demo2/images/nenhhd.jpg") no-repeat center;*/
+    /*background-image: url('http://localhost:8080/demo2/images/nenhhd.jpg');
+    background-size: 100% 80%;
+    background-repeat: no-repeat center;*/
+    background-color: #E0F2F7;
+    color:#2E9AFE;
+	font-size: 13pt;
+	padding-top: 10px;
+	padding-left: 12px;
+	padding-right: 15px;
+	border: 1px solid #DBD9D9;
+	/*opacity: 0.9; */
+
+}
+#xemhdlogo{
+	background-image: url('http://localhost:8080/demo2/images/evn_logo_3.jpg');
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 0px;
+    padding-left: 10px;
+}
+#tthd{
+	font-size: 17pt;
+}
+p{
+	margin: 0 0 !important;
+}
+#dh{
+	color: #000;
+}
+#banghd{
+	background-color: #FFF;
+}
+#banghd_tt{
+	background-color: #E6E6E6;
+	text-align: center;
+}
+#banghd_tt table thead tr th{
+	text-align: center !important;
+vertical-align: inherit !important;
+}
+#banghd_tt tbody tr td{
+vertical-align: inherit !important;
+}
+#modal-dialog {
+width: 80%;
+margin: auto;
+padding-top: 30px;
+}
+
+#tdgbao{
+	font-size: 17pt;
+}
+/*div .col-lg-8{
+	height: 660px !important;
+}*/

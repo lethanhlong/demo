@@ -1,0 +1,181 @@
+@import url(noidung.css);
+@import url(hopdong.css);
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	/*height: 2000px;*/
+	min-width:80%;
+	max-width: 100%;
+/*	height: auto;*/
+	/*min-height: 90%;*/
+	font-size:13pt ;
+	background-color: #F2F2F2;
+}
+/*menu chinh long + 1*/
+#long{
+	font-size:16pt !important;
+	background-color:#01DFD7;
+	background-repeat: repeat-x
+}
+#long1{
+	font-size:13pt;
+}
+/*chuyen muc*/
+#long2{
+	color: #F4FA58;
+	background-color:#01DFD7;
+
+}
+/*banner quang cao long3 + 4*/
+#long3{
+	
+	border: 1px solid #DBD9D9;
+	height: auto;
+	width: 100%;
+	display: block;
+	float: left;
+	background-color: #fff;
+}
+#long4{
+	
+	border: 1px solid #DBD9D9;
+	height: auto;
+	width: 100%;
+	display: block;
+	float: left;
+	background-color: #fff;	
+}
+#long4 img{
+	margin: auto;
+	padding-left: 50px;
+}
+hr{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+ul li.collapse.in {
+    height: 100px !important;
+}
+.dropdown:hover .dropdown-menu {
+display: block;
+color:#*any*;        
+}.nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+margin-top: 0;
+}     
+.dropdown:hover  .dropdown-toggle{
+background-color: #*any*;
+color:#*any*;
+}
+#clock{
+
+right:0;
+}
+/* slideshow anh */
+
+#wrapper{
+	margin-right: 0;
+	margin: 0 auto;
+	position: relative;
+}
+.img-switcher{
+	position: relative;
+	margin: 0 auto;
+}
+.img-switcher img{
+	position: absolute;
+	margin: 0 auto;
+	/*top: 0;
+	left: 0;*/
+}
+#ad1{
+	/*background-image: url('images/60nam.jpg');*/
+	height: 206px;
+
+}
+.header{
+	background-color: #FFFFFF !important;
+}
+a img{
+	margin-bottom: 0 auto;
+	/*padding-left: 30px;*/
+}
+#ad2{
+
+	padding-top: 5px;
+	text-align: center;
+	/*padding-left: 15px;
+	padding-right: 15px;*/
+}
+/*--------------------------------------menu trai home----------------------*/
+#ad3{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-size: 14pt;
+	text-align: center;
+	background-color: #38A8F6;
+	
+}
+#ad3 span{
+
+	color: #fff;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+#ad3 img{
+	margin: auto;
+}
+
+#ad4{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-size: 14pt;
+	text-align: center;
+	background-color: #38A8F6;
+	
+}
+#ad4 span{
+
+	color: #fff;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+#ad4 img{
+	padding-left: ;
+}
+
+#top{
+	width: 40px;
+	height: 40px;
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	position: fixed;
+	bottom: 10px;
+	right: 50px;
+	display: none;
+	/*background-image: url('../images/top.jpg');*/
+	cursor: pointer;
+}
+/*--------------------------------------------footer*/
+html {
+	position: relative;
+	min-height: 100%;
+}
+#footer {
+	clear: both;
+  /*position: absolute;*/
+  	bottom: 0;
+  	width: 100%;
+  /*padding-top: 20px;*/
+  /* Set the fixed height of the footer here */
+  	height: 60px;
+  	background-color: #38A8F6;
+}
+
+.container .text-muted {
+	text-align: center;
+	color:#fff;
+  	margin: 5px 0;
+}
+

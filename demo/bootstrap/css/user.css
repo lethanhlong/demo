@@ -1,0 +1,12 @@
+#cnhopdong{
+
+	color: #04B404;
+}
+#cnhopdong1{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.table>tbody>tr>th{
+	vertical-align: inherit !important;
+	text-align: -webkit-auto;
+}
