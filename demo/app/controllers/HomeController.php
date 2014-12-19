@@ -5,7 +5,7 @@ class HomeController extends BaseController {
 	public function showWelcome()
 	{
 		return View::make('hello');
-		return "long";
+		
 	}
 	public function getHome()
 	{
