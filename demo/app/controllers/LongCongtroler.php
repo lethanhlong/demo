@@ -7,3 +7,4 @@ class LongController extends BaseController {
 		return View::make('hello');
 
 	}
+}
